@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyeve/flask-sentinel/commit/05ddb184ac203e9c80c5f25d82122e58c5d8005f",
       "git:hexsha": "05ddb184ac203e9c80c5f25d82122e58c5d8005f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyeve/flask-sentinel/commit/a2edd4a147861d74a9bcf3573dd9ba9ef99cdd89",
